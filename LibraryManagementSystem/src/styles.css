@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+  margin: 0 5%;
+  background-image: url('assets/bg1.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-family: "Garamond", "Monotype Corsiva", sans-serif;
+  align-content: center;
+  text-align: center;
+  font-size: 50px;
+  color: #ff0000;
+}
+
+hr {
+  height: 5px;
+  color: black;
+}

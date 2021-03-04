@@ -1,0 +1,34 @@
+.example-container {
+  display: flex;
+  flex-direction: column;
+  max-height: 500px;
+  min-width: 300px;
+  overflow: auto;
+}
+
+table {
+  background: rgba(255, 252, 246, 0.15);
+}
+
+
+.isbn-col {
+  flex: 0 0 100px !important;
+  white-space: unset !important;
+}
+
+.button-row {
+  margin: 10px 0;
+}
+
+th {
+  font-size: medium;
+  color: navy;
+}
+
+.button-row {
+  margin: 10px 0;
+}
+
+a {
+  padding: 8px;
+}

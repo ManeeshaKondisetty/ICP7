@@ -1,0 +1,40 @@
+.example-card {
+  max-width: 500px;
+  background: rgba(255, 252, 246, 0.25);
+  border: none;
+}
+
+.button-row {
+  margin: 10px 0;
+}
+
+h2 {
+  color: #94473a;
+  font-family: "Bodoni 72", SansSerif, "Comic Sans MS", serif;
+  font-size: 35px;
+}
+
+mat-card-subtitle {
+  font-size: 20px;
+}
+
+dt {
+  padding: 8px;
+  grid-column-start: 1;
+  font-size: 15px;
+}
+
+dd {
+  padding: 8px;
+  grid-column-start: 2;
+  font-size: 15px;
+}
+
+dl {
+  display: grid;
+  grid-template-columns: max-content auto;
+}
+
+.button-row {
+  margin: 10px 0;
+}
